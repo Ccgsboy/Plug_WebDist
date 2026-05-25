@@ -1,9 +1,0 @@
-{
-  "api": {
-    "baseUrl": "https://fp.nlav.cn"
-  },
-  "plugin": {
-    "name": "飞书多维表格插件",
-    "version": "1.0.0"
-  }
-}
